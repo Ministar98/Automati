@@ -1,0 +1,13 @@
+[Kraj pozicija=0-3, automat=S1-S6
+, Kraj pozicija=0-3, automat=S0-S7
+, Kraj pozicija=0-7, automat=S0-S7
+, Kraj pozicija=1-6, automat=S2-S5
+, Kraj pozicija=1-6, automat=S0-S7
+, Kraj pozicija=1-6, automat=S1-S6
+, Kraj pozicija=2-5, automat=S0-S3
+, Kraj pozicija=2-5, automat=S1-S6
+, Kraj pozicija=3-7, automat=S1-S6
+, Kraj pozicija=0-3-7, automat=A0
+, Kraj pozicija=1-6, automat=A1
+, Kraj pozicija=2-5, automat=A2
+]
